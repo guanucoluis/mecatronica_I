@@ -17,7 +17,7 @@ Contenido
 - [Trabajos Prácticos](/s/book-example)
 - [Material Multimedia](/s/slide-example)
 - [Software utilizados](/s/yaml-metadata)
-- [Listam de materiales necesarios](/s/features)
+- [Listam de materiales necesarios](doc/herramientas.md)
 
 
 ###### tags: `Templates` `Book`
