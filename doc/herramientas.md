@@ -26,7 +26,7 @@ su precio/calidad y la disponiblidad en el mercado local. A
 continuación un vídeo que explica sobre la selección de multímetro:
 
 
-[![Watch the video](https://img.youtube.com/vi/jvCFgyl9fbw/default.jpg)](https://youtu.be/jvCFgyl9fbw)
+[![Selección de un soldador](https://img.youtube.com/vi/jvCFgyl9fbw/0.jpg)](https://youtu.be/jvCFgyl9fbw)
 
 Entre las variedades de instrumentos y marca se debe prestar atención
 a las especificaciones y limitaciones de algunos productos publicados
@@ -69,15 +69,63 @@ a su mala calidad, principalmente en su punta de soldado.
    width="600"
    rotate = "90">
 
-La técnica de soldado con este tipo de dispositivo se verá en clases
-pero se deja [este vídeo](https://www.youtube.com/watch?v=snM_ABjXGsw)
-como una referencia para aqullos que quieren comenzar con las
-prácticas.
+En el siguiente vídeo se pueden ver algunas recomendaciones con
+respecto a la ténica de soldadura utilizando el soldador
+recomendado. Sí bien en clases se darán las instrucciones para
+realizar esta tarea, en base al vídeo podrían comenzarse con las
+prácticas en sus casa.
+[![Técnica de soldadura](https://img.youtube.com/vi/snM_ABjXGsw/0.jpg)](https://youtu.be/snM_ABjXGsw)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/QH2-TGUlwu4" frameborder="0" allowfullscreen></iframe>
+## Desoldador
 
+En el proceso de formación se encontrará con situaciones que requiera
+retirar un elemento que se encuentre ya soldado. O también se necesite
+corregir una soldadura y eso podría implicar retirar el estaño en una
+zona específica de la placa. En estos casos se pueden utilizar un
+desoldador o cinta desoldante.
+<img src="img/desoldador.jpg" width="500">
+<img src="img/malla-desoldante.jpg" width="200">
 
+<!-- En el siguiente vídeo se puede ver la técnica para utilizar estos -->
+<!-- elementos. -->
 
+<!-- [![Desoldador -->
+<!-- chupa-estaño](https://img.youtube.com/vi/stualRGc5zQ/0.jpg)](https://youtu.be/stualRGc5zQ) -->
+
+## Pinza y Alicate
+
+Respecto a estas dos herramientas de mano, es fundamental que se
+intente adquirir aquellas que nos permitan manipular elementos
+pequeños. Es por esta razón que se recomienda adquirir de los
+siguientes tipos.
+<img src="img/pinza-1.jpg" width="300">
+<img src="img/alicate-1.jpg" width="300">
+<img src="img/pinza-2.jpg" width="300">
+<img src="img/alicate-2.jpg" width="250">
+
+Recuerde que estas herramientas debe ser utilizadas únicamente cuando
+se esté manipulando elementos de pequeñas dimensiones y en caso de
+cable, de pequeñas secciones. Siguiendo estos criterios sus
+herramientas tendrán mayor durabilidad.
+
+## Brucelas
+
+Este tipo de herramienta son secundarias, se utilizan mucho en caso de
+avanzar con la práctica en electrónica. Existen juegos completos de
+brucelas pero recomendamos comenzar con una básica como se puede ver
+a continuación.
+
+<img src="img/brucela.jpg" width="500">
+
+## Otros
+
+Existen una extensa lista de otras herramientas que sería útiles en su
+ejercitación en electrónica como son:
+
+- Destornilladores de baja sección (~3mm)
+- flux/decapante
+- soporte para desoldador
+- pasta para limpiar soldador
 
 
 
