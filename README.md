@@ -6,7 +6,7 @@ Materia.
 Contenido
 ---
 - [Lista de materiales necesarios](doc/herramientas.md)
-- [Guía de referencias](doc/guia.md)
+- [Guía de referencias](doc/guias.md)
 
 
 ###### tags: `UTN` `FRC` `mecatrónica`
