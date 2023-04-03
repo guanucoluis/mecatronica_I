@@ -3,7 +3,7 @@
 Aquí se referencia diferentes contenidos en internet de utilidad. 
 
 ## Resistores
-La [Universidad Tecnológica de Chile](https://portales.inacap.cl/) 
+La [!Universidad Tecnológica de Chile](https://portales.inacap.cl/) 
 genero diferentes materiales de utilidad sobre Resistores, Ley de 
 Ohm y Kirchhoff. A continuación las guías:
  * Resistencia y Ley de Ohm: [link](http://www.inacap.cl/web/material-apoyo-cedem/alumno/Electricidad/Redes-Electricas/AAI_ELSP01_GE3-RESISTENCIA-ELECTRICA.pdf)
