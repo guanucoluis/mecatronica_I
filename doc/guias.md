@@ -19,3 +19,11 @@ Ohm y Kirchhoff. A continuación las guías:
  a la materia. 
  
  [![Simulación con LTspice: Circuitos con resistores ](https://img.youtube.com/vi/ZDvsMXjfmZw/0.jpg)](https://youtu.be/ZDvsMXjfmZw)
+
+## Fuente de alimentación DC-DC
+
+En esta sección vamos agregar contenido referente a la fuente de
+alimentación que utilizaremos. En principio se agrega un vídeo
+que habla sobre las características de la fuente. 
+
+ [![Fuente de Alimentación](https://img.youtube.com/vi/vps015jNvt0/0.jpg)](https://youtu.be/vps015jNvt0)
