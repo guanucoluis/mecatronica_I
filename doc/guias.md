@@ -3,6 +3,8 @@
 Aquí se referencia diferentes contenidos en internet de utilidad. 
 
 ## Resistores
+El siguiente [link](https://miuniversoelectronico.com/asociacion-de-resistencias/ejercicios-resueltos-de-resistencias/) tiene una gran variedad de ejercicios con resistores. Aquí se pueden encontrar conexiones serie, paralelo y mixtos. La ventaja de este sitio es que presenta las resoluciones de los mismos.
+
 La [Universidad Tecnológica de Chile](https://portales.inacap.cl/)
 genero diferentes materiales de utilidad sobre Resistores, Ley de 
 Ohm y Kirchhoff. A continuación las guías:
